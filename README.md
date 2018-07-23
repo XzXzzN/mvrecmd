@@ -1,5 +1,5 @@
 # mvrecmd 电影推荐系统，采用Item-Based协同过滤算法，实现了基本的电影推荐功能
-[项目介绍文章](http://blog.taohuawu.club/article/37)
+[项目介绍文章](http://blog.taohuawu.club/article/item-based-movie-recommendation)
 ## 1. 系统模块
 ### 1.1 离线计算推荐电影模块
 **本模块采用离线式计算推荐给每位用户的电影，采用Item-based算法并做了适当修改，主要分两部分:**
